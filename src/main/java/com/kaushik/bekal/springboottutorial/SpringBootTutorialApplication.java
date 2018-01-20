@@ -11,6 +11,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 public class SpringBootTutorialApplication {
 
 	//Comment added to test branch
+	//Additional comment
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootTutorialApplication.class, args);
 	}
