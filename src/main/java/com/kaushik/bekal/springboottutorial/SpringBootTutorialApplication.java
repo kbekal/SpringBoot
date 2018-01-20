@@ -10,6 +10,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 @EnableJpaRepositories("com.kaushik.bekal.springboottutorial.dao")
 public class SpringBootTutorialApplication {
 
+	//Comment added to test branch
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootTutorialApplication.class, args);
 	}
