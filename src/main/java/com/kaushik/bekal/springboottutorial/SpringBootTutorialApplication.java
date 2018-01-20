@@ -12,6 +12,7 @@ public class SpringBootTutorialApplication {
 
 	//Comment added to test branch
 	//Additional comment
+	//Another comment
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootTutorialApplication.class, args);
 	}
