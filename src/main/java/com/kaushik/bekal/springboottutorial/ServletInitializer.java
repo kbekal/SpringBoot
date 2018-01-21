@@ -6,6 +6,7 @@ import org.springframework.boot.web.support.SpringBootServletInitializer;
 public class ServletInitializer extends SpringBootServletInitializer {
 
 	//Some comment
+	//comment
 	@Override
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
 		return application.sources(SpringBootTutorialApplication.class);
