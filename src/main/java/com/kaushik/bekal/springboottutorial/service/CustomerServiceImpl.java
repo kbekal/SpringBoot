@@ -14,6 +14,7 @@ import com.kaushik.bekal.springboottutorial.domain.Customer;
 //Comment 2
 //Comment 3
 //Some comment1
+//Some comment2
 @Service
 @Transactional
 public class CustomerServiceImpl implements CustomerService {
